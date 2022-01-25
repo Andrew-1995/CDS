@@ -1,4 +1,4 @@
-Cython
+Cython==0.29.26
 scikit-learn==0.22.2
 flask
 gunicorn
