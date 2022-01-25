@@ -1,5 +1,6 @@
 Cython==0.29.24
 scikit-learn==1.0.2
+KNN==1.0.0
 flask
 gunicorn
 numpy
