@@ -3,6 +3,6 @@ Cython
 gunicorn
 numpy
 pandas
-pickle
+pickle-mixin
 scikit-learn
 sklearn
