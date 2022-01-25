@@ -2,8 +2,3 @@ flask
 numpy
 sklearn
 gunicorn
-pickle
-pandas
-sklearn.model_selection
-sklearn.ensemble
-sklearn.metrics
