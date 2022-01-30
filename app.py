@@ -1,6 +1,4 @@
 from _ast import In
-
-import mapping as mapping
 from flask import Flask,request,jsonify
 import numpy as np
 import pandas as pd
